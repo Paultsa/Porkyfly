@@ -1,0 +1,1270 @@
+fileFormatVersion: 2
+guid: c83bc115628ca6048a3f44bcdabef48c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1422874876138314744
+    second: nuolet_0
+  - first:
+      213: -6952403136484961546
+    second: nuolet_1
+  - first:
+      213: -1459758932000352458
+    second: nuolet_2
+  - first:
+      213: -6030516930759324871
+    second: nuolet_3
+  - first:
+      213: 2971351796685380903
+    second: nuolet_4
+  - first:
+      213: -3133822708507201855
+    second: nuolet_5
+  - first:
+      213: 3571594843675740264
+    second: nuolet_6
+  - first:
+      213: -3776280448011934653
+    second: nuolet_7
+  - first:
+      213: 6225987203248665542
+    second: nuolet_8
+  - first:
+      213: 641134796656569433
+    second: nuolet_9
+  - first:
+      213: -2940108047198025464
+    second: nuolet_10
+  - first:
+      213: 9031403515386704829
+    second: nuolet_11
+  - first:
+      213: 1363406260635739676
+    second: nuolet_12
+  - first:
+      213: -5357749482824130148
+    second: nuolet_13
+  - first:
+      213: 3645977436166818173
+    second: nuolet_14
+  - first:
+      213: -4323622166178946484
+    second: nuolet_15
+  - first:
+      213: -1338771986689031969
+    second: nuolet_16
+  - first:
+      213: 7358856107150895092
+    second: nuolet_17
+  - first:
+      213: 6292088597571118361
+    second: nuolet_18
+  - first:
+      213: -1585332216060896457
+    second: nuolet_19
+  - first:
+      213: -4096918555559506772
+    second: nuolet_20
+  - first:
+      213: 3216361550467860518
+    second: nuolet_21
+  - first:
+      213: -7270677551795641749
+    second: nuolet_22
+  - first:
+      213: 4769073977788163576
+    second: nuolet_23
+  - first:
+      213: 2507994391515688523
+    second: nuolet_24
+  - first:
+      213: 1788085327405369151
+    second: nuolet_25
+  - first:
+      213: 4217066464054226603
+    second: nuolet_26
+  - first:
+      213: 4047423568049613254
+    second: nuolet_27
+  - first:
+      213: 471776716477433536
+    second: nuolet_28
+  - first:
+      213: 1263594705449751243
+    second: nuolet_29
+  - first:
+      213: 4731734248625254946
+    second: nuolet_30
+  - first:
+      213: -1785157246789406303
+    second: nuolet_31
+  - first:
+      213: 5114866221922137255
+    second: nuolet_32
+  - first:
+      213: 3900788218150658976
+    second: nuolet_33
+  - first:
+      213: -7607938358405183992
+    second: nuolet_34
+  - first:
+      213: -4774047027776612483
+    second: nuolet_35
+  - first:
+      213: -8571124506540010309
+    second: nuolet_36
+  - first:
+      213: -9208768906209540675
+    second: nuolet_37
+  - first:
+      213: 5644916371944397624
+    second: nuolet_38
+  - first:
+      213: -5444238280879636520
+    second: nuolet_39
+  - first:
+      213: 1215253897392504104
+    second: nuolet_40
+  - first:
+      213: -5192989784336581488
+    second: nuolet_41
+  - first:
+      213: -4293741363419109854
+    second: nuolet_42
+  - first:
+      213: 5311443143143460284
+    second: nuolet_43
+  - first:
+      213: 2955210991695619649
+    second: nuolet_44
+  - first:
+      213: 5112664492455646127
+    second: nuolet_45
+  - first:
+      213: 7935958134591771698
+    second: nuolet_46
+  - first:
+      213: 7267601589223080528
+    second: nuolet_47
+  - first:
+      213: 6081563779827458129
+    second: nuolet_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuolet_0
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1711
+        width: 31
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804a2ffb6dee04ce0800000000000000
+      internalID: -1422874876138314744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1711
+        width: 211
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2908ace2a148f90800000000000000
+      internalID: -6952403136484961546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1712
+        width: 37
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6375a684cf4edbbe0800000000000000
+      internalID: -1459758932000352458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1667
+        width: 106
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b8c127dcc4f4ca0800000000000000
+      internalID: -6030516930759324871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1755
+        width: 29
+        height: 53
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d962857bc5c3920800000000000000
+      internalID: 2971351796685380903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_5
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1755
+        width: 294
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce206ea9dc6284d0800000000000000
+      internalID: -3133822708507201855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_6
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1760
+        width: 22
+        height: 44
+      alignment: 9
+      pivot: {x: 0.045, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868c8e2569ad09130800000000000000
+      internalID: 3571594843675740264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_7
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1664
+        width: 119
+        height: 225
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344eefba0f4f79bc0800000000000000
+      internalID: -3776280448011934653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1428
+        width: 35
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3b3c9ef56276650800000000000000
+      internalID: 6225987203248665542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1428
+        width: 211
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c6bdf53b4c5e800800000000000000
+      internalID: 641134796656569433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1429
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8098e75fe43a237d0800000000000000
+      internalID: -2940108047198025464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1384
+        width: 106
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b6d595adf55d70800000000000000
+      internalID: 9031403515386704829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_12
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1487
+        width: 25
+        height: 53
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16acb935cacbe210800000000000000
+      internalID: 1363406260635739676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_13
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1487
+        width: 294
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c912cb06b3375a5b0800000000000000
+      internalID: -5357749482824130148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_14
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1492
+        width: 26
+        height: 44
+      alignment: 9
+      pivot: {x: 0.04, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7900d5392d199230800000000000000
+      internalID: 3645977436166818173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_15
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1398
+        width: 119
+        height: 223
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4226e12c886ff3c0800000000000000
+      internalID: -4323622166178946484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1158
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00822a8f9bb6de0800000000000000
+      internalID: -1338771986689031969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1158
+        width: 211
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f761fbf3a8ef1660800000000000000
+      internalID: 7358856107150895092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1159
+        width: 35
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91523891e3df15750800000000000000
+      internalID: 6292088597571118361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1114
+        width: 107
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b15babfb4cff9e0800000000000000
+      internalID: -1585332216060896457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_20
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1219
+        width: 34
+        height: 53
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac4b26b742d427c0800000000000000
+      internalID: -4096918555559506772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_21
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1219
+        width: 294
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6288cd40acfc2ac20800000000000000
+      internalID: 3216361550467860518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_22
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1224
+        width: 17
+        height: 44
+      alignment: 9
+      pivot: {x: 0.064, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6260d0d94d591b90800000000000000
+      internalID: -7270677551795641749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_23
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1130
+        width: 122
+        height: 223
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56f91e3872f2240800000000000000
+      internalID: 4769073977788163576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_24
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 783
+        width: 23
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ee6f47c9f2ec220800000000000000
+      internalID: 2507994391515688523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 784
+        width: 237
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c510b12e80d810800000000000000
+      internalID: 1788085327405369151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_26
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 786
+        width: 19
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae2a282b97068a30800000000000000
+      internalID: 4217066464054226603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_27
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 720
+        width: 113
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9242d7a465b2830800000000000000
+      internalID: 4047423568049613254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_28
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 756
+        width: 25
+        height: 53
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c600fe8c661c8600800000000000000
+      internalID: 471776716477433536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_29
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 756
+        width: 298
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2956690b0398110800000000000000
+      internalID: 1263594705449751243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_30
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 761
+        width: 23
+        height: 44
+      alignment: 9
+      pivot: {x: 0.045, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222bbd4ba3f7aa140800000000000000
+      internalID: 4731734248625254946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_31
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 662
+        width: 126
+        height: 232
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a137e431f8d937e0800000000000000
+      internalID: -1785157246789406303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 498
+        width: 23
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a43057aab7abf640800000000000000
+      internalID: 5114866221922137255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_33
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 499
+        width: 237
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a326e69732622630800000000000000
+      internalID: 3900788218150658976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_34
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 501
+        width: 19
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c0322f5c2b6690800000000000000
+      internalID: -7607938358405183992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_35
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 435
+        width: 113
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d779d50b58d2fbdb0800000000000000
+      internalID: -4774047027776612483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_36
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 488
+        width: 21
+        height: 53
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4990e4caf3d0980800000000000000
+      internalID: -8571124506540010309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_37
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 488
+        width: 298
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c7be4871e33080800000000000000
+      internalID: -9208768906209540675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_38
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 492
+        width: 27
+        height: 45
+      alignment: 9
+      pivot: {x: 0.045, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b58804885c65e40800000000000000
+      internalID: 5644916371944397624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_39
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 394
+        width: 126
+        height: 232
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff59bd02e2274b0800000000000000
+      internalID: -5444238280879636520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 216
+        width: 22
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d3df12bf27dd010800000000000000
+      internalID: 1215253897392504104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_41
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 218
+        width: 237
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb2660e4bcee7b0800000000000000
+      internalID: -5192989784336581488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_42
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 220
+        width: 20
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a00caaf09964c0800000000000000
+      internalID: -4293741363419109854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_43
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 154
+        width: 114
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd00cfb56906b940800000000000000
+      internalID: 5311443143143460284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 219
+        width: 23
+        height: 53
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e8545db4030920800000000000000
+      internalID: 2955210991695619649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_45
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 219
+        width: 298
+        height: 53
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa352909445d3f640800000000000000
+      internalID: 5112664492455646127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_46
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 224
+        width: 25
+        height: 44
+      alignment: 9
+      pivot: {x: 0.045, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234d6bc70ef222e60800000000000000
+      internalID: 7935958134591771698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuolet_47
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 125
+        width: 126
+        height: 232
+      alignment: 9
+      pivot: {x: 0.6, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052c4b6d325bbd460800000000000000
+      internalID: 7267601589223080528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

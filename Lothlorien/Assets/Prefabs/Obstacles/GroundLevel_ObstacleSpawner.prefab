@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1245251494734882684
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1245251494734882687}
+  - component: {fileID: 1245251494734882686}
+  m_Layer: 0
+  m_Name: GroundLevel_ObstacleSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1245251494734882687
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1245251494734882684}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 49, y: 1.2, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1245251494734882686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1245251494734882684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47f8892a991060d49bd4108abf0ad774, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  backgroundManager: {fileID: 0}
+  minCash: 5
+  maxCash: 15
+  maxInstancesPerObject: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  spawnInterval:
+  - 5
+  - 5
+  - 5
+  - 4
+  - 10
+  - 2
+  - 2
+  - 5
+  - 10
+  - 10
+  spawnIntervalSpread:
+  - 1
+  - 2
+  - 3
+  - 2
+  - 5
+  - 0.5
+  - 0.5
+  - 1
+  - 5
+  - 5
+  obstaclePrefabs:
+  - {fileID: 8587181897643490685, guid: 71f3b941f2b986142bf226d7b16e6e9e, type: 3}
+  - {fileID: 6651532688400042462, guid: b6a6c50b2652975449a0c3f8b3073a99, type: 3}
+  - {fileID: 456332605990151477, guid: a11d7b479f37c6c449494d789e4c788d, type: 3}
+  - {fileID: 1489403932701112791, guid: e253b21c8fa4be3499f1b4ac93513bf1, type: 3}
+  - {fileID: 6238143100624427471, guid: 5ddb2d36d2c97f649a05323980fe5420, type: 3}
+  - {fileID: 5819630754868152061, guid: ce9a40945c4fbd148979c949493f4f8c, type: 3}
+  - {fileID: 3454470002632495034, guid: 77abcbf3805d1c54497aef206b2bc81d, type: 3}
+  - {fileID: 3727903188742620168, guid: fcca3848c4a15b84b8563e2815c0c168, type: 3}
+  - {fileID: 1188661433803863936, guid: a53e46c0213b3e84e84d80fa814e76ce, type: 3}
+  - {fileID: 4228879343411553810, guid: 816ac38e32c5eff4894ae8abcef6cb07, type: 3}
+  player: {fileID: 0}
+  bestDistanceIndicator: {fileID: 1631153050576745924, guid: 3154784f35073864f80faafe0e93b4c8,
+    type: 3}
+  spawning: 0
+  isPaused: 0
